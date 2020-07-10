@@ -17,8 +17,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  books = ["genesis","exodus","leviticus","numbers"]
-  numbers = books.pop
+  books = ["wow","genesis","exodus","leviticus","numbers","arrays!"]
+  arrays! = books.pop
 end
 
 def remove_element_from_start_of_array(array)
