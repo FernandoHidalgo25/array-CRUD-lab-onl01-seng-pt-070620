@@ -24,7 +24,6 @@ end
 def remove_element_from_start_of_array(array)
   books = ["wow","genesis","exodus","leviticus","numbers"]
   wow = books.shift 
-  
 end
 
 def retrieve_element_from_index(array, index_number)
