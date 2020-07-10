@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   books = ["genesis","exodus","leviticus","numbers"]
-  genesis = books.shift 
+  wow = books.shift 
   
 end
 
