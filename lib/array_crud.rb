@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   books = ["wow","genesis","exodus","leviticus","numbers","arrays!"]
-  "arrays!" = books.pop
+  numbers = books.pop
 end
 
 def remove_element_from_start_of_array(array)
